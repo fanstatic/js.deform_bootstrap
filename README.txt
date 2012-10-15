@@ -18,4 +18,4 @@ Included resources
 
 ``js.deform_bootstrap`` is different from most ``js.`` packages in that it
 doesn't include any resources itself.  It references the resources from
-``deform_bootstrap`` itself instead.
+``deform_bootstrap`` instead.
