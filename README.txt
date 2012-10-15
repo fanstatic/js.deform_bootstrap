@@ -1,8 +1,8 @@
 js.deform_bootstrap
-*******************
+===================
 
 Introduction
-============
+------------
 
 This library packages `deform_bootstrap`_ for `fanstatic`_.
 
