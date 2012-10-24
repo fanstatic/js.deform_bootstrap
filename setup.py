@@ -35,6 +35,8 @@ setup(
     setup_requires=[],
     install_requires=[
         'deform_bootstrap',
+        'js.bootstrap',
+        'js.chosen',
         'js.deform',
         'fanstatic',
         'setuptools',
