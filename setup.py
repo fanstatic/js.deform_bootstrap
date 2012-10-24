@@ -4,7 +4,7 @@ import os
 from setuptools import setup
 from setuptools import find_packages
 
-version = '0.2.4'
+version = '0.2.4-1'
 
 
 def read(*rnames):
@@ -20,7 +20,7 @@ long_description = (
 setup(
     name='js.deform_bootstrap',
     version=version,
-    description="Fanstatic packaging of test_deform_bootstrap",
+    description="Fanstatic packaging of deform_bootstrap",
     long_description=long_description,
     classifiers=[],
     keywords='',

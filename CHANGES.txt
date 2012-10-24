@@ -1,6 +1,16 @@
 CHANGES
 =======
 
+0.2.4-1
+-------
+
+-   Fix docs.
+
+0.2.4
+-----
+
+-   Add fanstatic resources to js.deform's resource_mapping.
+
 0.2.2
 -----
 
