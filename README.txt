@@ -19,3 +19,21 @@ Included resources
 ``js.deform_bootstrap`` is different from most ``js.`` packages in that it
 doesn't include any resources itself.  It references the resources from
 ``deform_bootstrap`` instead.
+
+Usage in Pyramid
+----------------
+
+To use this package in `Pyramid`_ you have to include the following
+packages::
+
+  deform_bootstrap
+  js.deform
+  js.deform_bootstrap
+
+.. caution::
+
+  `js.deform_bootstrap` must be included **after** `js.deform` as it
+  overrides some parts of its configuration.
+
+.. _`Pyramid`: http://www.pylonsproject.org/projects/pyramid
+

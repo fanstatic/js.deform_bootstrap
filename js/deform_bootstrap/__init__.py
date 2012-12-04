@@ -22,5 +22,6 @@ deform_bootstrap_js = Resource(
 
 
 def includeme(config):
+    resource_mapping['deform'] = deform_bootstrap_js
     resource_mapping['chosen'] = chosen_jquery
     resource_mapping['bootstrap'] = bootstrap_js
