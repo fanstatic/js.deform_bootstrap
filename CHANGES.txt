@@ -1,6 +1,12 @@
 CHANGES
 =======
 
+0.2.4-2
+-------
+
+- Using deform_bootstrap's resources in resource_mapping. This fixes the
+  select widget which needs the JS code from deform_bootstrap.
+
 0.2.4-1
 -------
 
