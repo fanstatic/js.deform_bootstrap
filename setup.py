@@ -38,6 +38,7 @@ setup(
         'js.bootstrap',
         'js.chosen',
         'js.deform',
+        'js.jqueryui>=1.8.24',
         'fanstatic',
         'setuptools',
         ],
