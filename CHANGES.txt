@@ -1,11 +1,16 @@
 CHANGES
 =======
 
+0.2.6 - 2013-04-22
+------------------
+
+-   Add jQueryUI bootstrap theme CSS to resource mapping
+
 0.2.4-2
 -------
 
-- Using deform_bootstrap's resources in resource_mapping. This fixes the
-  select widget which needs the JS code from deform_bootstrap.
+-   Using deform_bootstrap's resources in resource_mapping. This fixes the
+    select widget which needs the JS code from deform_bootstrap.
 
 0.2.4-1
 -------
