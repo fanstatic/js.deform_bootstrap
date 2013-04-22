@@ -4,7 +4,7 @@ import os
 from setuptools import setup
 from setuptools import find_packages
 
-version = '0.2.4-1'
+version = '0.2.6'
 
 
 def read(*rnames):
@@ -41,10 +41,10 @@ setup(
         'js.jqueryui>=1.8.24',
         'fanstatic',
         'setuptools',
-        ],
+    ],
     entry_points={
         'fanstatic.libraries': [
             'deform_bootstrap = js.deform_bootstrap:library',
-            ],
-        },
-    )
+        ],
+    },
+)
